@@ -1,0 +1,22 @@
+{
+  "name": "getDomain",
+  "version": "1.0.0",
+  "description": "Get domain Use RegExp in JS",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CUNTIE/getDomain.git"
+  },
+  "author": "ChenHanJie",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CUNTIE/getDomain/issues"
+  },
+  "homepage": "https://github.com/CUNTIE/getDomain#readme"
+}
