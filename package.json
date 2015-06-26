@@ -1,11 +1,8 @@
 {
   "name": "getDomain",
   "version": "1.0.0",
-  "description": "Get domain Use RegExp in JS",
-  "main": "index.js",
-  "directories": {
-    "test": "test"
-  },
+  "description": "",
+  "main": "lib/getDomain.js",
   "scripts": {
     "test": "node test/test.js"
   },

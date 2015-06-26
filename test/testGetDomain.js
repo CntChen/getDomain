@@ -1,6 +1,4 @@
-var getDomain = require('./../src/index.js').getDomain;
-
-var request = require('request').request;
+var getDomain = require('./../lib/getDomain');
 
 var urls = ['1plus1tv.ru',
 	'filmitorrent.org',
@@ -92,11 +90,9 @@ var urls = ['1plus1tv.ru',
 	'tvzvezda.ru'
 ];
 
-for (u in urls) {
+for (var u in urls) {
 	console.log(urls[u]);
-	console.log(getDomain('front.' + urls[u] + '/end'));
+	console.log(getDomain('front.' + urls[u] + '/test'));
 	console.log('================');
 }
-
-var myurl = 'm.net.com/hehe';
-console.log(getDomain(myurl));
+// console.log(getDomain('www.rutube.com'));
