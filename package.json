@@ -1,7 +1,7 @@
 {
   "name": "getDomain",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.1.0",
+  "description": "根据URL获取URL域名",
   "main": "lib/getDomain.js",
   "scripts": {
     "test": "node test/testGetDomain.js"
