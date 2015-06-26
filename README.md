@@ -3,7 +3,7 @@
 
 ### 安装方法  
 ```
-npm install git@github.com:CUNTIE/getDomain.git --save
+npm install git://github.com/CUNTIE/getDomain.git --save
 ```
 ### 使用方法示例  
 ```
