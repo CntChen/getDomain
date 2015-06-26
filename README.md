@@ -1,5 +1,6 @@
 # nodejs 模块 getDomina
 > 根据url获取到相应的域名
+
 ### 安装方法  
 ```
 npm install git@github.com:CUNTIE/getDomain.git --save
